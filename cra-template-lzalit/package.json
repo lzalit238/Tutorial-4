@@ -1,0 +1,48 @@
+{
+  "_from": "cra-template-lzalit",
+  "_id": "cra-template-lzalit@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-xnZ90SbQIs/oaQxi7r6vNSEQbpCBsO4i24fUb4lYXvIh0iofpUAsOAAfInnL1gFNky2bdYi+Tw9wY1hD1kgvPA==",
+  "_location": "/cra-template-lzalit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cra-template-lzalit",
+    "name": "cra-template-lzalit",
+    "escapedName": "cra-template-lzalit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cra-template-lzalit/-/cra-template-lzalit-1.1.2.tgz",
+  "_shasum": "840aefc417fac6245def9eb98de9b23c85679cad",
+  "_spec": "cra-template-lzalit",
+  "_where": "C:\\Users\\lzalit238\\Desktop\\Tutorial-4",
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "basic practice template",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "license": "MIT",
+  "main": "template.json",
+  "name": "cra-template-lzalit",
+  "version": "1.1.2"
+}
